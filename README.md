@@ -24,6 +24,7 @@ A store inventory is a record of all the items available for use in your daily b
  ![download](https://user-images.githubusercontent.com/72591359/190850546-9b1ba338-6a8a-4952-8afc-898e5faddd36.png)
  
  #🔗lINKS
+ <br/>
  <a href="https://retail-project.netlify.app/">Project Website</a><br>
  <a href="https://github.com/IBM-EPBL/IBM-Project-16863-1663844834/tree/main/Assessments">Assignments</a><br>
  <a href="https://github.com/IBM-EPBL/IBM-Project-16863-1663844834/tree/main/Project_Design_and_Planning">Project Design & Planning</a><br>
